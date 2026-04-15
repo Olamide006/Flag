@@ -66,6 +66,10 @@ padding: 0px 0px 30px 0px;
     color: var(--dark);
 }
 
+.card-content span:hover{
+color:var(--primary)
+}
+
 /* Center Action Bar */
 .action-bar {
     grid-column: span 2; /* Spans across both columns */
